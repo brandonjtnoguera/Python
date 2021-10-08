@@ -1,0 +1,17 @@
+Orange-windflower
+Red-cosmos
+Red-hyacinth
+Red-lily
+Red-mum
+Red-windflower
+White-cosmos
+White-hyacinth
+White-lily
+White-mum
+White-tulip
+White-windflower
+Yellow-cosmos
+Yellow-hyacinth
+Yellow-lily
+Yellow-mum
+Yellow-tulip
