@@ -21,7 +21,6 @@ Directories = {
 
 if __name__ == '__main__':
     os.chdir('/Users/brandontenorio/Downloads')     # Go to my Downloads folder
-    os.listdir()    # Returns an array with all the files in the current folder (in this case, my Downloads folder)
     filesMoved = 0
 
     for file in os.listdir():   # Go through every file in current folder (my Downloads folder)
@@ -38,7 +37,6 @@ if __name__ == '__main__':
                         print('Files moved from Downloads to Replicated-Files:' + '\n- ' + file + '\n')
                     except shutil.Error:
                         shutil.move('/Users/brandontenorio/Downloads/' + file, '/Users/brandontenorio/.Trash')
-
                         print('Files moved from Downloads to Trash: ' + '\n-' + file + '\n')
 
     if filesMoved == 0:
