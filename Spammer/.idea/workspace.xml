@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aeab320-baec-4848-bedf-c1bc5ef3f31c" name="Default Changelist" comment="" />
+    <list default="true" id="0aeab320-baec-4848-bedf-c1bc5ef3f31c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spammer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/message.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spammer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snakeGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../snakeGame/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +41,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1fKuzZARepaBXzwRhnFAjOIcoxH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +61,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Spammer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
