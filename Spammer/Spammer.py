@@ -16,14 +16,3 @@ try:
                 pyautogui.press('enter')
 except KeyboardInterrupt:
     exit()
-
-
-
-
-
-
-
-
-
-
-
