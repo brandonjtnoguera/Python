@@ -144,4 +144,8 @@
 /ban ddatapc42
 /ban delteerdatap42
 /ban rivkamichaeli1
+<<<<<<< HEAD
 /ban stormpostor
+=======
+/ban stormpostor
+>>>>>>> e102758c6c75f8129772b44417c080bde1676d71
