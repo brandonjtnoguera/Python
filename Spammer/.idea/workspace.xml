@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aeab320-baec-4848-bedf-c1bc5ef3f31c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spammer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/message.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spammer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snakeGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../snakeGame/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
