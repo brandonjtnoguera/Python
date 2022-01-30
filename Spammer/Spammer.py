@@ -10,7 +10,7 @@ try:
     while True:
         for line in message:
             for word in line.split():
-                # changing the parameter below to "line" will type every line in the .txt
+                # changing the parameter below to "line" will type every line in the .txt; changing it to "word" will type every word in.txt
                 # file
                 pyautogui.typewrite(line)
                 pyautogui.press('enter')

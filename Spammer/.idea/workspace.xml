@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0aeab320-baec-4848-bedf-c1bc5ef3f31c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/message.txt" beforeDir="false" afterPath="$PROJECT_DIR$/message.txt" afterDir="false" />
-    </list>
+    <list default="true" id="0aeab320-baec-4848-bedf-c1bc5ef3f31c" name="Default Changelist" comment="updated message.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1595979368243</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated message.txt">
+      <created>1643572815822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643572815822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +122,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated message.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated message.txt" />
   </component>
 </project>
